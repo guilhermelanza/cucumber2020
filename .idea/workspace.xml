@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d7ecf6d-fe0c-4629-8ebd-75a486acaa2d" name="Default Changelist" comment="" />
+    <list default="true" id="1d7ecf6d-fe0c-4629-8ebd-75a486acaa2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/aprender_cucumber.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AprenderCucumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XnaYWD7tX7V1d3UTOsxYyQ6NH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -31,6 +43,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
@@ -84,8 +97,8 @@
     </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="CursoCucumber" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="PACKAGE_NAME" value="br.com.lanza.runners" />
+      <option name="MAIN_CLASS_NAME" value="br.com.lanza.runners.Runner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,5 +123,18 @@
       <updated>1581684359059</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
