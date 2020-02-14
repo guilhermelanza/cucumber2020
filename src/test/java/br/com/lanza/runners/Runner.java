@@ -10,6 +10,8 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
         features = "src/test/resources/features/aprender_cucumber.feature",
         glue = "br.com.lanza.steps",
         plugin = "pretty",
+        dryRun = false,
+        strict = true,
         monochrome = true,
         snippets = SnippetType.CAMELCASE)
 public class Runner {

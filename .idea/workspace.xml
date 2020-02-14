@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7ecf6d-fe0c-4629-8ebd-75a486acaa2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/aprender_cucumber.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AprenderCucumberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/aprender_cucumber.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/aprender_cucumber.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
