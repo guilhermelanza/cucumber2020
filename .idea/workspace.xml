@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7ecf6d-fe0c-4629-8ebd-75a486acaa2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/converters/DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/DateConverter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/aprender_cucumber.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/aprender_cucumber.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumberSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +80,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: aprender_cucumber (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/aprender_cucumber.feature" />
+      <option name="GLUE" value="br.com.lanza.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CursoCucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: aprender_cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: aprender_cucumber" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/aprender_cucumber.feature" />
@@ -104,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: aprender_cucumber (2)" />
         <item itemvalue="Cucumber java.Feature: aprender_cucumber" />
         <item itemvalue="Cucumber java.Feature: aprender_cucumber (1)" />
       </list>
