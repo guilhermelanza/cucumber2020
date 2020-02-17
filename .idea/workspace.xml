@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7ecf6d-fe0c-4629-8ebd-75a486acaa2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/converters/DateConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/DateConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entidades/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entidades/NotaAluguel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/AluguelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AlugarFilmeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/locadora_cucumber.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/lanza/steps/AprenderCucumberSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/DateConverter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/runners/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lanza/steps/AprenderCucumber.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +38,21 @@
     </option>
   </component>
   <component name="ProjectId" id="1XnaYWD7tX7V1d3UTOsxYyQ6NH2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/entidades" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="services" />
+      <recent name="entidades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/features" />
